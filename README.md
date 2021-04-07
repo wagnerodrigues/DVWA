@@ -40,7 +40,7 @@ along with Damn Vulnerable Web Application (DVWA).  If not, see <http://www.gnu.
 While there are various versions of DVWA around, the only supported version is the latest source from the official GitHub repository. You can either clone it from the repo:
 
 ```
-git clone https://github.com/digininja/DVWA.git
+git clone https://github.com/wagnerodrigues/DVWA.git
 ```
 
 Or [download a ZIP of the files](https://github.com/digininja/DVWA/archive/master.zip).
@@ -330,7 +330,7 @@ setsebool -P httpd_can_network_connect_db 1
 
 For the latest troubleshooting information please read both open and closed tickets in the git repo:
 
-<https://github.com/digininja/DVWA/issues>
+<https://github.com/wagnerodrigues/DVWA/issues>
 
 Before submitting a ticket, please make sure you are running the latest version of the code from the repo. This is not the latest release, this is the latest code from the master branch.
 
@@ -347,7 +347,7 @@ If raising a ticket, please submit at least the following information:
 
 Homepage: <http://www.dvwa.co.uk/>
 
-Project Home: <https://github.com/digininja/DVWA>
+Project Home: <https://github.com/wagnerodrigues/DVWA>
 
 *Created by the DVWA team*
 
